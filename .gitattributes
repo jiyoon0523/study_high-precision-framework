@@ -1,2 +1,0 @@
-*.unity3d filter=lfs diff=lfs merge=lfs -text
-Assets/Samples/High[[:space:]]Precision[[:space:]]Framework/1.0.0/High Precision Sample/TextMesh[[:space:]]Pro/Resources/Fonts[[:space:]]&[[:space:]]Materials/LiberationSans[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
